@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Chatbox_de_suporte
-=======
 # Chatbox de Suporte
 
 > Assistente financeiro inteligente com motor local de 1.700+ respostas e suporte opcional à API Gemini.
