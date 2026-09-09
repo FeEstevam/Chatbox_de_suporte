@@ -1,0 +1,68 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node / Package Managers
+node_modules/
+bun.lockb
+.cache/
+.pnpm-store/
+.npm
+.yarn/
+*.tsbuildinfo
+
+# OS Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+*.local
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+!.env.example
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+db.sqlite
+db.sqlite3
+
+# Editors & IDEs
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# AI & Agent Artifacts
+.gemini/
+.agents/
+scratch/
+artifacts/
+
+# Build Outputs (Vite/React)
+dist/
+dist-ssr/
+build/
+out/
+coverage/
+.turbo/
+
+# Deployments & Platforms
+.vercel
+.netlify
